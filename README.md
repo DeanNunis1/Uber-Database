@@ -43,7 +43,7 @@ Please note that the script assumes the existence of certain tables (Rider, Driv
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome.
 
 ## License
 None
